@@ -10,7 +10,7 @@ Awesome C++ Libraries
 
 ## Configuration
 
-* [Config](https://github.com/taocpp/config) --  header-only library that reads config files based on JSON and JAXN and produces a single JSON Value as result.
+* [taocpp/config](https://github.com/taocpp/config) --  header-only library that reads config files based on JSON and JAXN and produces a single JSON Value as result.
 * [Tortellini](https://github.com/Qix-/tortellini) -- ini file reader and writer for C++11 and above.
 
 
@@ -21,6 +21,7 @@ Awesome C++ Libraries
 
 ## Data Types
 
+* [static_vector](https://github.com/gnzlbg/static_vector) -- dynamically-resizable vector with fixed capacity and embedded storage.
 * [robin_hood unordered map & set](https://github.com/martinus/robin-hood-hashin) -- platform independent replacement for `std::unordered_map` / `std::unordered_set` which is both faster and more memory efficient for real-world use cases.
 * [NanoRange](https://github.com/tcbrindle/NanoRange) -- C++17 implementation of the C++20 Ranges proposals.
 * [pdqsort](https://github.com/orlp/pdqsort) -- pattern-defeating quicksort (pdqsort) is a novel sorting algorithm that combines the fast average case of randomized quicksort with the fast worst case of heapsort, while achieving linear time on inputs with certain patterns.
