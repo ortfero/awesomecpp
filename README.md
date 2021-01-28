@@ -12,6 +12,7 @@ Awesome C++ Libraries
 
 * [taocpp/config](https://github.com/taocpp/config) --  header-only library that reads config files based on JSON and JAXN and produces a single JSON Value as result.
 * [Tortellini](https://github.com/Qix-/tortellini) -- ini file reader and writer for C++11 and above.
+* [confetti](https://github.com/ortfero/confetti) -- C++17 one-header library to parse ini files with toml extensions.
 
 
 ## Console
