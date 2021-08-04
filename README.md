@@ -124,6 +124,7 @@ Awesome C++ Libraries
 ## Scripts
 
 * [Gravity](https://github.com/marcobambini/gravity) -- gravity programming language.
+* [Elk](https://github.com/cesanta/elk) -- tiny JS engine for embedded systems.
 * [PL/0 JIT compiler](https://github.com/yhirose/pl0-jit-compiler) -- tiny PL/0 JIT compiler in less than 700 LOC with LLVM and PEG parser.
 
 
@@ -134,7 +135,7 @@ Awesome C++ Libraries
 ## UI
 
 * [Dear ImGui](https://github.com/ocornut/imgui) -- bloat-free Graphical User interface for C++ with minimal dependencies.
-* [boden](https://github.com/AshampooSystems/boden) -- purely native C++ cross-platform GUI framework for Android and iOS development.
+* [Neutralinojs](https://github.com/neutralinojs) -- portable and lightweight cross platform app development framework.
 * [Elements](https://github.com/cycfi/elements) -- lightweight, fine-grained, resolution independent, modular GUI library.
 * [raygui](https://github.com/raysan5/raygui) -- simple and easy-to-use immediate-mode gui library.
 * [microui](https://github.com/rxi/microui) -- tiny, portable, immediate-mode UI library written in ANSI C.
