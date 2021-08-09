@@ -58,6 +58,7 @@ Awesome C++ Libraries
 ## File Managment
 
 * [TinyDir](https://github.com/cxong/tinydir) -- lightweight, portable and easy to integrate C directory and file reader.
+* [cpp-mmaplib](https://github.com/yhirose/cpp-mmaplib) -- C++11 header-only memory mapped file library.
 
 
 ## Graphics
