@@ -126,6 +126,7 @@ Awesome C++ Libraries
 * [Gravity](https://github.com/marcobambini/gravity) -- gravity programming language.
 * [Elk](https://github.com/cesanta/elk) -- tiny JS engine for embedded systems.
 * [PL/0 JIT compiler](https://github.com/yhirose/pl0-jit-compiler) -- tiny PL/0 JIT compiler in less than 700 LOC with LLVM and PEG parser.
+* [cmonkey](https://github.com/abhinav-upadhyay/cmonkey) -- implementation of the monkey language in C.
 
 
 ## Storage
