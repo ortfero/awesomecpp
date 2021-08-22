@@ -108,6 +108,7 @@ Awesome C++ Libraries
 * [nanomsg-next-gen](https://github.com/nanomsg/nng) -- lightweight, broker-less library, offering a simple API to solve common recurring messaging problems, such as publish/subscribe, RPC-style request/reply, or service discovery.
 * [FlatBuffers](https://github.com/google/flatbuffers) -- memory efficient serialization library.
 * [cpp-httplib](https://github.com/yhirose/cpp-httplib) -- C++11 single-file header-only cross platform HTTP/HTTPS library.
+* [kleinsHTTP](https://github.com/kleinschrader/kleinsHTTP) -- a stupid stupidly simple http server.
 * [PicoHTTPParser](https://github.com/h2o/picohttpparser) -- tiny HTTP parser written in C.
 * [jwt-cpp](https://github.com/Thalhammer/jwt-cpp) -- header only library for creating and validating json web tokens in c++.
 * [cpprouter](https://github.com/omartijn/cpprouter) -- modern, header-only request router for C++.
