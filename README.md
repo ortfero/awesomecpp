@@ -122,6 +122,7 @@ Awesome C++ Libraries
 ## Process Managment
 
 * [subprocess.h](https://github.com/sheredom/subprocess.h) -- single header process launching solution for C and C++.
+* [subprocess](https://github.com/rajatjain1997/subprocess) -- a C++ high level library for running shell processes.
 
 
 ## Scripts
