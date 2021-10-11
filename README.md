@@ -30,6 +30,7 @@ Awesome C++ Libraries
 * [taocpp/sequences](https://github.com/taocpp/sequences) --  zero-dependency C++11 header-only library that provides efficient algorithms to generate and work on variadic templates and `std::integer_sequence`.
 * [flecs](https://github.com/SanderMertens/flecs) -- fast and lightweight Entity Component System with a focus on high performance game development.
 * [Little Type Library](https://github.com/qnope/Little-Type-Library) -- lightweight library that can be used for meta programming and / or functional programming.
+* [recursive-variant](https://github.com/codeinred/recursive-variant) -- a simple library for recursive variant types
 
 
 ## Data Formats
