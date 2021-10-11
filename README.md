@@ -144,6 +144,7 @@ Awesome C++ Libraries
 * [Elements](https://github.com/cycfi/elements) -- lightweight, fine-grained, resolution independent, modular GUI library.
 * [raygui](https://github.com/raysan5/raygui) -- simple and easy-to-use immediate-mode gui library.
 * [microui](https://github.com/rxi/microui) -- tiny, portable, immediate-mode UI library written in ANSI C.
+* [xtd](https://github.com/gammasoft71/xtd) -- Fmodern C++17 / C++20 framework to create console, forms (GUI like WinForms) and unit test applications on Microsoft Windows, Apple macOS and Linux
 
 ## Unicode
 
