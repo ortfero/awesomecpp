@@ -101,6 +101,7 @@ Awesome C++ Libraries
 * [libunifex](https://github.com/facebookexperimental/libunifex) --  prototype implementation of the C++ sender/receiver async programming model that is currently being considered for standardisation.
 * [periodic-function](https://github.com/DeveloperPaul123/periodic-function) -- small header only library to call a function at a specific time interval.
 * [cpp-threadpool](https://github.com/yhirose/cpp-threadpool) -- C++11 header-only thread pool library.
+* [SCoro](https://github.com/seppeon/SCoro) -- a stackless, resumable, resettable state machine style coroutine library for C++17.
 
 ## Network
 
