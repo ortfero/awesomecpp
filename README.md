@@ -30,7 +30,8 @@ Awesome C++ Libraries
 * [taocpp/sequences](https://github.com/taocpp/sequences) --  zero-dependency C++11 header-only library that provides efficient algorithms to generate and work on variadic templates and `std::integer_sequence`.
 * [flecs](https://github.com/SanderMertens/flecs) -- fast and lightweight Entity Component System with a focus on high performance game development.
 * [Little Type Library](https://github.com/qnope/Little-Type-Library) -- lightweight library that can be used for meta programming and / or functional programming.
-* [recursive-variant](https://github.com/codeinred/recursive-variant) -- a simple library for recursive variant types
+* [recursive-variant](https://github.com/codeinred/recursive-variant) -- a simple library for recursive variant types.
+* [cppitertools](https://github.com/ryanhaining/cppitertools) -- implementation of python itertools and builtin iteration functions for C++17.
 
 
 ## Data Formats
@@ -146,7 +147,7 @@ Awesome C++ Libraries
 * [Elements](https://github.com/cycfi/elements) -- lightweight, fine-grained, resolution independent, modular GUI library.
 * [raygui](https://github.com/raysan5/raygui) -- simple and easy-to-use immediate-mode gui library.
 * [microui](https://github.com/rxi/microui) -- tiny, portable, immediate-mode UI library written in ANSI C.
-* [xtd](https://github.com/gammasoft71/xtd) -- Fmodern C++17 / C++20 framework to create console, forms (GUI like WinForms) and unit test applications on Microsoft Windows, Apple macOS and Linux
+* [xtd](https://github.com/gammasoft71/xtd) -- modern C++17 / C++20 framework to create console, forms (GUI like WinForms) and unit test applications on Microsoft Windows, Apple macOS and Linux
 
 ## Unicode
 
