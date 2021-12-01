@@ -18,6 +18,7 @@ Awesome C++ Libraries
 ## Console
 
 * [Lyra](https://github.com/bfgroup/Lyra) -- A simple to use, composing, header only, command line arguments parser for C++ 11 and beyond.
+* [oof](https://github.com/s9w/oof) -- Convenient, high-performance RGB color and position control for console output.
 
 
 ## Data Types
