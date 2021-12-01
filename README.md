@@ -88,6 +88,7 @@ Awesome C++ Libraries
 * [FastTrigo](https://github.com/divideconcept/FastTrigo) -- fast yet accurate trigonometric functions.
 * [vmath](https://github.com/BlackMATov/vmath.hpp) -- C++17 tiny vector math library.
 * [fixed_math](https://github.com/arturbac/fixed_math) -- fixed point 48.16 bit arithmetic type.
+* [eve](https://github.com/jfalcou/eve) -- expressive velocity engine.
 
 
 ## Concurrency
