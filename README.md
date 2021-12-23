@@ -2,6 +2,10 @@
 
 Awesome C++ Libraries
 
+## Audio
+
+* [miniaudio](https://miniaud.io/) -- A single file audio playback and capture library.
+
 
 ## Compression
 
