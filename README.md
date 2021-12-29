@@ -83,6 +83,7 @@ Awesome C++ Libraries
 
 ## Logging
 
+* [lwlog](https://github.com/ChristianPanov/lwlog) -- very fast synchronous C++17 logging library.
 * [spdlog](https://github.com/gabime/spdlog) -- fast C++ logging library.
 * [reckless](https://github.com/mattiasflodin/reckless) -- Low-latency, high-throughput, asynchronous logging library for C++.
 * [Quill](https://github.com/odygrd/quill) -- cross-platform low latency logging library based on C++14.
