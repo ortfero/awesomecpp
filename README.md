@@ -58,8 +58,7 @@ Awesome C++ Libraries
 
 ## Error Handling
 
-* [expected lite](https://github.com/martinmoene/expected-lite) -- expected objects in C++11 and later in a single-file header-only library.
-* [LEAF](https://github.com/boostorg/leaf) -- lightweight error handling library for C++11.
+* [expected](https://github.com/TartanLlama/expected) -- C++11/14/17 std::expected with functional-style extensions.
 
 
 ## File Managment
@@ -127,6 +126,7 @@ Awesome C++ Libraries
 * [PicoHTTPParser](https://github.com/h2o/picohttpparser) -- tiny HTTP parser written in C.
 * [jwt-cpp](https://github.com/Thalhammer/jwt-cpp) -- header only library for creating and validating json web tokens in c++.
 * [cpprouter](https://github.com/omartijn/cpprouter) -- modern, header-only request router for C++.
+* [zpp::bits](https://github.com/eyalz800/zpp_bits) -- lightweight C++20 serialization and RPC library.
 
 
 ## Parsers
@@ -146,7 +146,7 @@ Awesome C++ Libraries
 * [Elk](https://github.com/cesanta/elk) -- tiny JS engine for embedded systems.
 * [QuickJS](https://github.com/bellard/quickjs) -- QuickJS Javascript Engine.
 * [PL/0 JIT compiler](https://github.com/yhirose/pl0-jit-compiler) -- tiny PL/0 JIT compiler in less than 700 LOC with LLVM and PEG parser.
-* [Monjey](https://github.com/yhirose/monkey-cpp) --  C++ version monkey language interpreter.
+* [Monkey](https://github.com/yhirose/monkey-cpp) --  C++ version monkey language interpreter.
 
 
 ## Storage
