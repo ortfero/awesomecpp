@@ -59,6 +59,8 @@ Awesome C++ Libraries
 ## Error Handling
 
 * [expected](https://github.com/TartanLlama/expected) -- C++11/14/17 std::expected with functional-style extensions.
+* [outcome](https://github.com/ned14/outcome) -- provides very lightweight outcome<T> and result<T> (non-Boost edition).
+* [leaf](https://github.com/boostorg/leaf) -- Lightweight Error Augmentation Framework.
 
 
 ## File Managment
