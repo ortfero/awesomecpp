@@ -140,6 +140,10 @@ Awesome C++ Libraries
 
 * [subprocess.h](https://github.com/sheredom/subprocess.h) -- single header process launching solution for C and C++.
 * [subprocess](https://github.com/rajatjain1997/subprocess) -- a C++ high level library for running shell processes.
+  
+## Profiling
+
+* [easy_profiler](https://github.com/yse/easy_profiler) -- lightweight profiler library for C++.
 
 
 ## Scripts
