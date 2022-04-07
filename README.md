@@ -12,6 +12,23 @@ Awesome C++ Libraries
 * [LZ4](https://github.com/lz4/lz4) -- Extremely fast compression.
 
 
+## Concurrency
+
+* [Disruptor++](https://github.com/lewissbaker/disruptorplus) -- disruptor thread-synchronisation data structure for C++11.
+* [fuss](https://github.com/andsmedeiros/fuss) -- efficient in-process pub/sub pattern for C++.
+* [xenium](https://github.com/mpoeter/xenium) -- library providing various concurrent data structures and reclamation schemes.
+* [moodycamel::ConcurrentQueue](https://github.com/cameron314/concurrentqueue) -- fast multi-producer, multi-consumer lock-free concurrent queue for C++11.
+* [stlab](https://github.com/stlab/libraries) --  library provides futures and channels, high level constructs for implementing algorithms that eases the use of multiple CPU cores while minimizing contention.
+* [SObjectizer](https://github.com/Stiffstream/sobjectizer) -- implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework.
+* [concurrencpp](https://github.com/David-Haim/concurrencpp) -- tasks, executors, timers and C++20 coroutines to rule them all.
+* [libfev](https://github.com/patrykstefanski/libfev) -- library for events and fibers.
+* [libunifex](https://github.com/facebookexperimental/libunifex) --  prototype implementation of the C++ sender/receiver async programming model that is currently being considered for standardisation.
+* [periodic-function](https://github.com/DeveloperPaul123/periodic-function) -- small header only library to call a function at a specific time interval.
+* [cpp-threadpool](https://github.com/yhirose/cpp-threadpool) -- C++11 header-only thread pool library.
+* [SCoro](https://github.com/seppeon/SCoro) -- a stackless, resumable, resettable state machine style coroutine library for C++17.
+* [laugh](https://github.com/tyckesak/laugh) -- laughably simple yet effective actor concurrency framework for C++20.
+
+
 ## Configuration
 
 * [taocpp/config](https://github.com/taocpp/config) --  header-only library that reads config files based on JSON and JAXN and produces a single JSON Value as result.
@@ -101,25 +118,6 @@ Awesome C++ Libraries
 * [eve](https://github.com/jfalcou/eve) -- expressive velocity engine.
 
 
-## Microbenchmarking
-
-* [picobench](https://github.com/iboB/picobench) -- tiny microbenchmarking library in a single header file.
-
-
-## Concurrency
-
-* [Disruptor++](https://github.com/lewissbaker/disruptorplus) -- disruptor thread-synchronisation data structure for C++11.
-* [xenium](https://github.com/mpoeter/xenium) -- library providing various concurrent data structures and reclamation schemes.
-* [moodycamel::ConcurrentQueue](https://github.com/cameron314/concurrentqueue) -- fast multi-producer, multi-consumer lock-free concurrent queue for C++11.
-* [stlab](https://github.com/stlab/libraries) --  library provides futures and channels, high level constructs for implementing algorithms that eases the use of multiple CPU cores while minimizing contention.
-* [SObjectizer](https://github.com/Stiffstream/sobjectizer) -- implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework.
-* [concurrencpp](https://github.com/David-Haim/concurrencpp) -- tasks, executors, timers and C++20 coroutines to rule them all.
-* [libfev](https://github.com/patrykstefanski/libfev) -- library for events and fibers.
-* [libunifex](https://github.com/facebookexperimental/libunifex) --  prototype implementation of the C++ sender/receiver async programming model that is currently being considered for standardisation.
-* [periodic-function](https://github.com/DeveloperPaul123/periodic-function) -- small header only library to call a function at a specific time interval.
-* [cpp-threadpool](https://github.com/yhirose/cpp-threadpool) -- C++11 header-only thread pool library.
-* [SCoro](https://github.com/seppeon/SCoro) -- a stackless, resumable, resettable state machine style coroutine library for C++17.
-
 ## Network
 
 * [Asio](https://github.com/chriskohlhoff/asio) -- Asio C++ Library.
@@ -133,6 +131,7 @@ Awesome C++ Libraries
 * [cpprouter](https://github.com/omartijn/cpprouter) -- modern, header-only request router for C++.
 * [zpp::bits](https://github.com/eyalz800/zpp_bits) -- lightweight C++20 serialization and RPC library.
 * [RESTCpp](https://github.com/ozanarmagan/RESTCpp) -- cross platform multi threaded REST API framework using thread-pooling implementation with modern C++.
+* [wfrest](https://github.com/wfrest/wfrest) -- C++ web framework REST API.
 
 
 ## Process Managment
@@ -143,7 +142,8 @@ Awesome C++ Libraries
 ## Profiling
 
 * [easy_profiler](https://github.com/yse/easy_profiler) -- lightweight profiler library for C++.
-
+* [picobench](https://github.com/iboB/picobench) -- tiny microbenchmarking library in a single header file.
+* [precision](https://github.com/ruarq/precision) -- microbenchmarking library for C++17 and above.
 
 ## Scripts
 
