@@ -23,12 +23,13 @@ Awesome C++ Libraries
 
 * [Lyra](https://github.com/bfgroup/Lyra) -- A simple to use, composing, header only, command line arguments parser for C++ 11 and beyond.
 * [oof](https://github.com/s9w/oof) -- Convenient, high-performance RGB color and position control for console output.
+* [xtd](https://github.com/gammasoft71/xtd) -- modern C++17 / C++20 framework to create console, forms (GUI like WinForms) and unit test applications on Microsoft Windows, Apple macOS and Linux
 
 
-## Data Types
+## Containers and Algorithms
 
 * [static_vector](https://github.com/gnzlbg/static_vector) -- dynamically-resizable vector with fixed capacity and embedded storage.
-* [robin_hood unordered map & set](https://github.com/martinus/robin-hood-hashin) -- platform independent replacement for `std::unordered_map` / `std::unordered_set` which is both faster and more memory efficient for real-world use cases.
+* [robin-hood-hashin](https://github.com/martinus/robin-hood-hashin) -- platform independent replacement for `std::unordered_map` / `std::unordered_set` which is both faster and more memory efficient for real-world use cases.
 * [NanoRange](https://github.com/tcbrindle/NanoRange) -- C++17 implementation of the C++20 Ranges proposals.
 * [pdqsort](https://github.com/orlp/pdqsort) -- pattern-defeating quicksort (pdqsort) is a novel sorting algorithm that combines the fast average case of randomized quicksort with the fast worst case of heapsort, while achieving linear time on inputs with certain patterns.
 * [taocpp/operators](https://github.com/taocpp/operators) -- zero-dependency C++11 single-header library that provides highly efficient, move aware operators for arithmetic data types.
@@ -37,9 +38,11 @@ Awesome C++ Libraries
 * [Little Type Library](https://github.com/qnope/Little-Type-Library) -- lightweight library that can be used for meta programming and / or functional programming.
 * [recursive-variant](https://github.com/codeinred/recursive-variant) -- a simple library for recursive variant types.
 * [cppitertools](https://github.com/ryanhaining/cppitertools) -- implementation of python itertools and builtin iteration functions for C++17.
+* [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) -- functional programming library for C++.
+* [vapid-soa](https://github.com/markisus/vapid-soa) -- a header only structure of arrays container for C++.
 
 
-## Data Formats
+## File Formats
 
 * [taocpp/json](https://github.com/taocpp/json) -- header-only JSON library that provides a generic Value Class, uses Type Traits to interoperate with C++ types, uses an Events Interface to convert from and to JSON, JAXN, CBOR, MsgPack and UBJSON, and much more.
 * [simdjson](https://github.com/simdjson/simdjson) -- parsing gigabytes of JSON per second.
@@ -129,18 +132,14 @@ Awesome C++ Libraries
 * [jwt-cpp](https://github.com/Thalhammer/jwt-cpp) -- header only library for creating and validating json web tokens in c++.
 * [cpprouter](https://github.com/omartijn/cpprouter) -- modern, header-only request router for C++.
 * [zpp::bits](https://github.com/eyalz800/zpp_bits) -- lightweight C++20 serialization and RPC library.
-
-
-## Parsers
-
-* [cpp-peglib](https://github.com/yhirose/cpp-peglib) -- C++17 header-only PEG (Parsing Expression Grammars) library.
+* [RESTCpp](https://github.com/ozanarmagan/RESTCpp) -- cross platform multi threaded REST API framework using thread-pooling implementation with modern C++.
 
 
 ## Process Managment
 
 * [subprocess.h](https://github.com/sheredom/subprocess.h) -- single header process launching solution for C and C++.
 * [subprocess](https://github.com/rajatjain1997/subprocess) -- a C++ high level library for running shell processes.
-  
+
 ## Profiling
 
 * [easy_profiler](https://github.com/yse/easy_profiler) -- lightweight profiler library for C++.
@@ -159,6 +158,15 @@ Awesome C++ Libraries
 
 * [RocksDB](https://github.com/facebook/rocksdb) -- persistent key-value store for flash and RAM storage.
 
+
+## Text Handling
+
+* [cpp-peglib](https://github.com/yhirose/cpp-peglib) -- C++17 header-only PEG (Parsing Expression Grammars) library.
+* [libfmt](https://github.com/fmtlib/fmt) -- A modern formatting library.
+* [htmlparser](https://github.com/mylogin/htmlparser) -- Fast and lightweight HTML parser.
+* [scnlib](https://github.com/eliaskosunen/scnlib) -- scanf for modern C++
+
+
 ## UI
 
 * [Dear ImGui](https://github.com/ocornut/imgui) -- bloat-free Graphical User interface for C++ with minimal dependencies.
@@ -166,7 +174,7 @@ Awesome C++ Libraries
 * [Elements](https://github.com/cycfi/elements) -- lightweight, fine-grained, resolution independent, modular GUI library.
 * [raygui](https://github.com/raysan5/raygui) -- simple and easy-to-use immediate-mode gui library.
 * [microui](https://github.com/rxi/microui) -- tiny, portable, immediate-mode UI library written in ANSI C.
-* [xtd](https://github.com/gammasoft71/xtd) -- modern C++17 / C++20 framework to create console, forms (GUI like WinForms) and unit test applications on Microsoft Windows, Apple macOS and Linux
+
 
 ## Unicode
 
