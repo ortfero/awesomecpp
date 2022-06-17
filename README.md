@@ -91,16 +91,17 @@ Awesome C++ Libraries
 
 ## Graphics
 
-* [raylib](https://github.com/raysan5/raylib) -- simple and easy-to-use library to enjoy videogames programming.
-* [WUHOO](https://github.com/ViNeek/wuhoo) -- single-header library for graphics related window management, compatible with both C and C++.
-* [HibFonts](https://github.com/hibengler/HibFonts) -- manuscript based ASCII font for Open GL ES 2.0.
-* [lunasvg](https://github.com/sammycage/lunasvg) -- standalone c++ library to create, animate, manipulate and render SVG files.
-* [PlutoVG](https://github.com/sammycage/plutovg) -- standalone 2D vector graphics library in C.
-* [Matplot++](https://github.com/alandefreitas/matplotplusplus) -- graphics library for data visualization.
 * [The Forge](https://github.com/ConfettiFX/The-Forge) -- cross-platform rendering framework.
-* [LLGL](https://github.com/LukasBanana/LLGL) -- thin abstraction layer for the modern graphics APIs OpenGL, Direct3D, Vulkan, and Metal.
 * [Godot](https://github.com/godotengine/godot) -- multi-platform 2D and 3D game engine.
+* [HibFonts](https://github.com/hibengler/HibFonts) -- manuscript based ASCII font for Open GL ES 2.0.
+* [libschrift](https://github.com/tomolt/libschrift) -- a lightweight TrueType font rendering library.
+* [LLGL](https://github.com/LukasBanana/LLGL) -- thin abstraction layer for the modern graphics APIs OpenGL, Direct3D, Vulkan, and Metal.
+* [lunasvg](https://github.com/sammycage/lunasvg) -- standalone c++ library to create, animate, manipulate and render SVG files.
+* [Matplot++](https://github.com/alandefreitas/matplotplusplus) -- graphics library for data visualization.
+* [PlutoVG](https://github.com/sammycage/plutovg) -- standalone 2D vector graphics library in C.
+* [raylib](https://github.com/raysan5/raylib) -- simple and easy-to-use library to enjoy videogames programming.
 * [Sokol](https://github.com/floooh/sokol) -- minimal cross-platform standalone C headers.
+* [WUHOO](https://github.com/ViNeek/wuhoo) -- single-header library for graphics related window management, compatible with both C and C++.
 
 ## Logging
 
