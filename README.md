@@ -14,19 +14,17 @@ Awesome C++ Libraries
 
 ## Concurrency
 
+* [cpp-threadpool](https://github.com/yhirose/cpp-threadpool) -- C++11 header-only thread pool library.
 * [Disruptor++](https://github.com/lewissbaker/disruptorplus) -- disruptor thread-synchronisation data structure for C++11.
 * [fuss](https://github.com/andsmedeiros/fuss) -- efficient in-process pub/sub pattern for C++.
-* [xenium](https://github.com/mpoeter/xenium) -- library providing various concurrent data structures and reclamation schemes.
-* [moodycamel::ConcurrentQueue](https://github.com/cameron314/concurrentqueue) -- fast multi-producer, multi-consumer lock-free concurrent queue for C++11.
-* [stlab](https://github.com/stlab/libraries) --  library provides futures and channels, high level constructs for implementing algorithms that eases the use of multiple CPU cores while minimizing contention.
-* [SObjectizer](https://github.com/Stiffstream/sobjectizer) -- implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework.
-* [concurrencpp](https://github.com/David-Haim/concurrencpp) -- tasks, executors, timers and C++20 coroutines to rule them all.
+* [laugh](https://github.com/tyckesak/laugh) -- laughably simple yet effective actor concurrency framework for C++20.
 * [libfev](https://github.com/patrykstefanski/libfev) -- library for events and fibers.
 * [libunifex](https://github.com/facebookexperimental/libunifex) --  prototype implementation of the C++ sender/receiver async programming model that is currently being considered for standardisation.
-* [periodic-function](https://github.com/DeveloperPaul123/periodic-function) -- small header only library to call a function at a specific time interval.
-* [cpp-threadpool](https://github.com/yhirose/cpp-threadpool) -- C++11 header-only thread pool library.
-* [SCoro](https://github.com/seppeon/SCoro) -- a stackless, resumable, resettable state machine style coroutine library for C++17.
-* [laugh](https://github.com/tyckesak/laugh) -- laughably simple yet effective actor concurrency framework for C++20.
+* [hpx](https://github.com/STEllAR-GROUP/hpx) -- the C++ Standard Library for Parallelism and Concurrency.
+* [moodycamel::ConcurrentQueue](https://github.com/cameron314/concurrentqueue) -- fast multi-producer, multi-consumer lock-free concurrent queue for C++11.
+* [SObjectizer](https://github.com/Stiffstream/sobjectizer) -- implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework.
+* [stlab](https://github.com/stlab/libraries) --  library provides futures and channels, high level constructs for implementing algorithms that eases the use of multiple CPU cores while minimizing contention.
+* [xenium](https://github.com/mpoeter/xenium) -- library providing various concurrent data structures and reclamation schemes.
 
 
 ## Configuration
@@ -38,6 +36,7 @@ Awesome C++ Libraries
 
 ## Console
 
+* [flags](https://github.com/sailormoon/flags) -- Simple, extensible, header-only C++17 argument parser released into the public domain.
 * [Lyra](https://github.com/bfgroup/Lyra) -- A simple to use, composing, header only, command line arguments parser for C++ 11 and beyond.
 * [oof](https://github.com/s9w/oof) -- Convenient, high-performance RGB color and position control for console output.
 * [xtd](https://github.com/gammasoft71/xtd) -- modern C++17 / C++20 framework to create console, forms (GUI like WinForms) and unit test applications on Microsoft Windows, Apple macOS and Linux
@@ -45,17 +44,18 @@ Awesome C++ Libraries
 
 ## Containers and Algorithms
 
-* [static_vector](https://github.com/gnzlbg/static_vector) -- dynamically-resizable vector with fixed capacity and embedded storage.
-* [robin-hood-hashin](https://github.com/martinus/robin-hood-hashin) -- platform independent replacement for `std::unordered_map` / `std::unordered_set` which is both faster and more memory efficient for real-world use cases.
+* [BTree](https://github.com/frozenca/BTree) -- a general-purpose high-performance lightweight STL-like modern C++ B-Tree.
+* [cppitertools](https://github.com/ryanhaining/cppitertools) -- implementation of python itertools and builtin iteration functions for C++17.
+* [flecs](https://github.com/SanderMertens/flecs) -- fast and lightweight Entity Component System with a focus on high performance game development.
+* [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) -- functional programming library for C++.
+* [Little Type Library](https://github.com/qnope/Little-Type-Library) -- lightweight library that can be used for meta programming and / or functional programming.
 * [NanoRange](https://github.com/tcbrindle/NanoRange) -- C++17 implementation of the C++20 Ranges proposals.
 * [pdqsort](https://github.com/orlp/pdqsort) -- pattern-defeating quicksort (pdqsort) is a novel sorting algorithm that combines the fast average case of randomized quicksort with the fast worst case of heapsort, while achieving linear time on inputs with certain patterns.
+* [recursive-variant](https://github.com/codeinred/recursive-variant) -- a simple library for recursive variant types.
+* [robin-hood-hashin](https://github.com/martinus/robin-hood-hashin) -- platform independent replacement for `std::unordered_map` / `std::unordered_set` which is both faster and more memory efficient for real-world use cases.
+* [static_vector](https://github.com/gnzlbg/static_vector) -- dynamically-resizable vector with fixed capacity and embedded storage.
 * [taocpp/operators](https://github.com/taocpp/operators) -- zero-dependency C++11 single-header library that provides highly efficient, move aware operators for arithmetic data types.
 * [taocpp/sequences](https://github.com/taocpp/sequences) --  zero-dependency C++11 header-only library that provides efficient algorithms to generate and work on variadic templates and `std::integer_sequence`.
-* [flecs](https://github.com/SanderMertens/flecs) -- fast and lightweight Entity Component System with a focus on high performance game development.
-* [Little Type Library](https://github.com/qnope/Little-Type-Library) -- lightweight library that can be used for meta programming and / or functional programming.
-* [recursive-variant](https://github.com/codeinred/recursive-variant) -- a simple library for recursive variant types.
-* [cppitertools](https://github.com/ryanhaining/cppitertools) -- implementation of python itertools and builtin iteration functions for C++17.
-* [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) -- functional programming library for C++.
 * [vapid-soa](https://github.com/markisus/vapid-soa) -- a header only structure of arrays container for C++.
 
 
@@ -87,6 +87,7 @@ Awesome C++ Libraries
 
 * [TinyDir](https://github.com/cxong/tinydir) -- lightweight, portable and easy to integrate C directory and file reader.
 * [cpp-mmaplib](https://github.com/yhirose/cpp-mmaplib) -- C++11 header-only memory mapped file library.
+* [glob](https://github.com/p-ranav/glob) -- glob for C++17.
 
 
 ## Graphics
@@ -125,14 +126,7 @@ Awesome C++ Libraries
 * [ZeroMQ](https://github.com/zeromq/libzmq) -- library which extends the standard socket interfaces with features traditionally provided by specialised messaging middleware products.
 * [nanomsg-next-gen](https://github.com/nanomsg/nng) -- lightweight, broker-less library, offering a simple API to solve common recurring messaging problems, such as publish/subscribe, RPC-style request/reply, or service discovery.
 * [FlatBuffers](https://github.com/google/flatbuffers) -- memory efficient serialization library.
-* [cpp-httplib](https://github.com/yhirose/cpp-httplib) -- C++11 single-file header-only cross platform HTTP/HTTPS library.
-* [kleinsHTTP](https://github.com/kleinschrader/kleinsHTTP) -- a stupid stupidly simple http server.
-* [PicoHTTPParser](https://github.com/h2o/picohttpparser) -- tiny HTTP parser written in C.
-* [jwt-cpp](https://github.com/Thalhammer/jwt-cpp) -- header only library for creating and validating json web tokens in c++.
-* [cpprouter](https://github.com/omartijn/cpprouter) -- modern, header-only request router for C++.
 * [zpp::bits](https://github.com/eyalz800/zpp_bits) -- lightweight C++20 serialization and RPC library.
-* [RESTCpp](https://github.com/ozanarmagan/RESTCpp) -- cross platform multi threaded REST API framework using thread-pooling implementation with modern C++.
-* [wfrest](https://github.com/wfrest/wfrest) -- C++ web framework REST API.
 
 
 ## Process Managment
@@ -140,11 +134,33 @@ Awesome C++ Libraries
 * [subprocess.h](https://github.com/sheredom/subprocess.h) -- single header process launching solution for C and C++.
 * [subprocess](https://github.com/rajatjain1997/subprocess) -- a C++ high level library for running shell processes.
 
+
 ## Profiling
 
 * [easy_profiler](https://github.com/yse/easy_profiler) -- lightweight profiler library for C++.
 * [picobench](https://github.com/iboB/picobench) -- tiny microbenchmarking library in a single header file.
 * [precision](https://github.com/ruarq/precision) -- microbenchmarking library for C++17 and above.
+
+## Rest protocol
+
+* [cpprouter](https://github.com/omartijn/cpprouter) -- modern, header-only request router for C++.
+* [cpp-httplib](https://github.com/yhirose/cpp-httplib) -- C++11 single-file header-only cross platform HTTP/HTTPS library.
+* [jwt-cpp](https://github.com/Thalhammer/jwt-cpp) -- header only library for creating and validating json web tokens in C++.
+* [kleinsHTTP](https://github.com/kleinschrader/kleinsHTTP) -- a stupid stupidly simple http server.
+* [PicoHTTPParser](https://github.com/h2o/picohttpparser) -- tiny HTTP parser written in C.
+* [RESTCpp](https://github.com/ozanarmagan/RESTCpp) -- cross platform multi threaded REST API framework using thread-pooling implementation with modern C++.
+* [via-httplib](https://github.com/kenba/via-httplib) -- a library for embedding an HTTP or HTTPS server in C++ applications.
+* [wfrest](https://github.com/wfrest/wfrest) -- C++ web framework REST API.
+
+
+## Scheduling
+
+* [concurrencpp](https://github.com/David-Haim/concurrencpp) -- tasks, executors, timers and C++20 coroutines to rule them all.
+* [periodic-function](https://github.com/DeveloperPaul123/periodic-function) -- small header only library to call a function at a specific time interval.
+* [SCoro](https://github.com/seppeon/SCoro) -- a stackless, resumable, resettable state machine style coroutine library for C++17.
+* [timetable](https://github.com/ortfero/timetable) -- C++17 one-header library to invoke something periodically or at the specified time.
+
+
 
 ## Scripts
 
