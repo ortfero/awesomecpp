@@ -53,17 +53,21 @@ Awesome C++ Libraries
 * [memory](https://github.com/foonathan/memory) -- STL compatible C++ memory allocator library using a new RawAllocator concept that is similar to an Allocator but easier to use and write.
 * [NanoRange](https://github.com/tcbrindle/NanoRange) -- C++17 implementation of the C++20 Ranges proposals.
 * [pdqsort](https://github.com/orlp/pdqsort) -- pattern-defeating quicksort (pdqsort) is a novel sorting algorithm that combines the fast average case of randomized quicksort with the fast worst case of heapsort, while achieving linear time on inputs with certain patterns.
+* [plf_hive](https://github.com/mattreecebentley/plf_hive) -- plf::hive is a fork of plf::colony to match the current C++ standards proposal.
 * [recursive-variant](https://github.com/codeinred/recursive-variant) -- a simple library for recursive variant types.
 * [robin-hood-hashin](https://github.com/martinus/robin-hood-hashin) -- platform independent replacement for `std::unordered_map` / `std::unordered_set` which is both faster and more memory efficient for real-world use cases.
 * [static_vector](https://github.com/gnzlbg/static_vector) -- dynamically-resizable vector with fixed capacity and embedded storage.
 * [taocpp/operators](https://github.com/taocpp/operators) -- zero-dependency C++11 single-header library that provides highly efficient, move aware operators for arithmetic data types.
 * [taocpp/sequences](https://github.com/taocpp/sequences) --  zero-dependency C++11 header-only library that provides efficient algorithms to generate and work on variadic templates and `std::integer_sequence`.
+* [tiny::optional](https://github.com/Sedeniono/tiny-optional) -- replacement for std::optional that does not unnecessarily waste memory.
 * [type_safe](https://github.com/foonathan/type_safe) -- zero overhead utilities for preventing bugs at compile time.
 * [vapid-soa](https://github.com/markisus/vapid-soa) -- a header only structure of arrays container for C++.
 
 
 ## File Formats
 
+* [gason](https://github.com/vivkin/gason) -- lightweight and fast JSON parser for C++.
+* [glaze](https://github.com/stephenberry/glaze) -- extremely fast, in memory, JSON and interface library for modern C++.
 * [taocpp/json](https://github.com/taocpp/json) -- header-only JSON library that provides a generic Value Class, uses Type Traits to interoperate with C++ types, uses an Events Interface to convert from and to JSON, JAXN, CBOR, MsgPack and UBJSON, and much more.
 * [simdjson](https://github.com/simdjson/simdjson) -- parsing gigabytes of JSON per second.
 * [RapidJSON](https://github.com/Tencent/rapidjson) -- fast JSON parser/generator for C++ with both SAX/DOM style API.
@@ -183,10 +187,12 @@ Awesome C++ Libraries
 ## Tests
 
 * [doctest](https://github.com/doctest/doctest) -- the fastest feature-rich C++11/14/17/20 single-header testing framework.
+* [snatch](https://github.com/cschreib/snatch) -- lightweight C++20 testing framework.
 
 ## Text Handling
 
 * [cpp-peglib](https://github.com/yhirose/cpp-peglib) -- C++17 header-only PEG (Parsing Expression Grammars) library.
+* [ezpz](https://github.com/OneBit74/ezpz) -- easy parsing C++ library.
 * [lexy](https://github.com/foonathan/lexy) -- C++ parsing DSL.
 * [libfmt](https://github.com/fmtlib/fmt) -- a modern formatting library.
 * [htmlparser](https://github.com/mylogin/htmlparser) -- Fast and lightweight HTML parser.
@@ -196,10 +202,11 @@ Awesome C++ Libraries
 ## UI
 
 * [Dear ImGui](https://github.com/ocornut/imgui) -- bloat-free Graphical User interface for C++ with minimal dependencies.
-* [Neutralinojs](https://github.com/neutralinojs) -- portable and lightweight cross platform app development framework.
 * [Elements](https://github.com/cycfi/elements) -- lightweight, fine-grained, resolution independent, modular GUI library.
-* [raygui](https://github.com/raysan5/raygui) -- simple and easy-to-use immediate-mode gui library.
+* [hikogui](https://github.com/hikogui/hikogui) -- modern accelerated GUI.
+* [Neutralinojs](https://github.com/neutralinojs) -- portable and lightweight cross platform app development framework.
 * [microui](https://github.com/rxi/microui) -- tiny, portable, immediate-mode UI library written in ANSI C.
+* [raygui](https://github.com/raysan5/raygui) -- simple and easy-to-use immediate-mode gui library.
 
 
 ## Unicode
