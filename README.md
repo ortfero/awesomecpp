@@ -44,11 +44,13 @@ Awesome C++ Libraries
 
 ## Containers and Algorithms
 
+* [array](https://github.com/foonathan/array) -- contiguous container library - arrays with customizable allocation, small buffer optimization and more. 
 * [BTree](https://github.com/frozenca/BTree) -- a general-purpose high-performance lightweight STL-like modern C++ B-Tree.
 * [cppitertools](https://github.com/ryanhaining/cppitertools) -- implementation of python itertools and builtin iteration functions for C++17.
 * [flecs](https://github.com/SanderMertens/flecs) -- fast and lightweight Entity Component System with a focus on high performance game development.
 * [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) -- functional programming library for C++.
 * [Little Type Library](https://github.com/qnope/Little-Type-Library) -- lightweight library that can be used for meta programming and / or functional programming.
+* [memory](https://github.com/foonathan/memory) -- STL compatible C++ memory allocator library using a new RawAllocator concept that is similar to an Allocator but easier to use and write.
 * [NanoRange](https://github.com/tcbrindle/NanoRange) -- C++17 implementation of the C++20 Ranges proposals.
 * [pdqsort](https://github.com/orlp/pdqsort) -- pattern-defeating quicksort (pdqsort) is a novel sorting algorithm that combines the fast average case of randomized quicksort with the fast worst case of heapsort, while achieving linear time on inputs with certain patterns.
 * [recursive-variant](https://github.com/codeinred/recursive-variant) -- a simple library for recursive variant types.
@@ -56,6 +58,7 @@ Awesome C++ Libraries
 * [static_vector](https://github.com/gnzlbg/static_vector) -- dynamically-resizable vector with fixed capacity and embedded storage.
 * [taocpp/operators](https://github.com/taocpp/operators) -- zero-dependency C++11 single-header library that provides highly efficient, move aware operators for arithmetic data types.
 * [taocpp/sequences](https://github.com/taocpp/sequences) --  zero-dependency C++11 header-only library that provides efficient algorithms to generate and work on variadic templates and `std::integer_sequence`.
+* [type_safe](https://github.com/foonathan/type_safe) -- zero overhead utilities for preventing bugs at compile time.
 * [vapid-soa](https://github.com/markisus/vapid-soa) -- a header only structure of arrays container for C++.
 
 
@@ -148,6 +151,7 @@ Awesome C++ Libraries
 * [jwt-cpp](https://github.com/Thalhammer/jwt-cpp) -- header only library for creating and validating json web tokens in C++.
 * [kleinsHTTP](https://github.com/kleinschrader/kleinsHTTP) -- a stupid stupidly simple http server.
 * [PicoHTTPParser](https://github.com/h2o/picohttpparser) -- tiny HTTP parser written in C.
+* [restbed](https://github.com/Corvusoft/restbed) -- Corvusoft's Restbed framework brings asynchronous RESTful functionality to C++14 applications.
 * [RESTCpp](https://github.com/ozanarmagan/RESTCpp) -- cross platform multi threaded REST API framework using thread-pooling implementation with modern C++.
 * [via-httplib](https://github.com/kenba/via-httplib) -- a library for embedding an HTTP or HTTPS server in C++ applications.
 * [wfrest](https://github.com/wfrest/wfrest) -- C++ web framework REST API.
@@ -176,10 +180,15 @@ Awesome C++ Libraries
 * [RocksDB](https://github.com/facebook/rocksdb) -- persistent key-value store for flash and RAM storage.
 
 
+## Tests
+
+* [doctest](https://github.com/doctest/doctest) -- the fastest feature-rich C++11/14/17/20 single-header testing framework.
+
 ## Text Handling
 
 * [cpp-peglib](https://github.com/yhirose/cpp-peglib) -- C++17 header-only PEG (Parsing Expression Grammars) library.
-* [libfmt](https://github.com/fmtlib/fmt) -- A modern formatting library.
+* [lexy](https://github.com/foonathan/lexy) -- C++ parsing DSL.
+* [libfmt](https://github.com/fmtlib/fmt) -- a modern formatting library.
 * [htmlparser](https://github.com/mylogin/htmlparser) -- Fast and lightweight HTML parser.
 * [scnlib](https://github.com/eliaskosunen/scnlib) -- scanf for modern C++
 
