@@ -172,11 +172,14 @@ Awesome C++ Libraries
 
 ## Scripts
 
-* [Gravity](https://github.com/marcobambini/gravity) -- gravity programming language.
 * [Elk](https://github.com/cesanta/elk) -- tiny JS engine for embedded systems.
-* [QuickJS](https://github.com/bellard/quickjs) -- QuickJS Javascript Engine.
-* [PL/0 JIT compiler](https://github.com/yhirose/pl0-jit-compiler) -- tiny PL/0 JIT compiler in less than 700 LOC with LLVM and PEG parser.
+* [Gravity](https://github.com/marcobambini/gravity) -- gravity programming language.
+* [lauf](https://github.com/foonathan/lauf) -- bytecode interpreter.
 * [Monkey](https://github.com/yhirose/monkey-cpp) --  C++ version monkey language interpreter.
+* [PL/0 JIT compiler](https://github.com/yhirose/pl0-jit-compiler) -- tiny PL/0 JIT compiler in less than 700 LOC with LLVM and PEG parser.
+* [QuickJS](https://github.com/bellard/quickjs) -- QuickJS Javascript Engine.
+
+
 
 
 ## Storage
