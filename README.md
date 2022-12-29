@@ -66,16 +66,13 @@ Awesome C++ Libraries
 
 ## File Formats
 
-* [gason](https://github.com/vivkin/gason) -- lightweight and fast JSON parser for C++.
 * [glaze](https://github.com/stephenberry/glaze) -- extremely fast, in memory, JSON and interface library for modern C++.
-* [taocpp/json](https://github.com/taocpp/json) -- header-only JSON library that provides a generic Value Class, uses Type Traits to interoperate with C++ types, uses an Events Interface to convert from and to JSON, JAXN, CBOR, MsgPack and UBJSON, and much more.
-* [simdjson](https://github.com/simdjson/simdjson) -- parsing gigabytes of JSON per second.
-* [RapidJSON](https://github.com/Tencent/rapidjson) -- fast JSON parser/generator for C++ with both SAX/DOM style API.
-* [Boost.JSON](https://github.com/boostorg/json) -- portable C++ library which provides containers and algorithms that implement JavaScript Object Notation, or simply "JSON", a lightweight data-interchange format.
-* [sajson](https://github.com/chadaustin/sajson) -- extremely high-performance, in-place, DOM-style JSON parser written in C++.
 * [DAW JSON Link](https://github.com/beached/daw_json_link) -- static JSON parsing in C++.
 * [json.h](https://github.com/sheredom/json.h) -- single header json parser for C and C++.
 * [lazycsv](https://github.com/ashtum/lazycsv) -- fast, lightweight and single-header c++ csv parser library.
+* [RapidJSON](https://github.com/Tencent/rapidjson) -- fast JSON parser/generator for C++ with both SAX/DOM style API.
+* [simdjson](https://github.com/simdjson/simdjson) -- parsing gigabytes of JSON per second.
+* [yyjson](https://github.com/ibireme/yyjson) -- the fastest C JSON library.
 
 
 ## Database
