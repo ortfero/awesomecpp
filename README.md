@@ -2,6 +2,11 @@
 
 Awesome C++ Libraries
 
+## Other lists
+
+* [awesome-hpp](https://github.com/p-ranav/awesome-hpp) -- A curated list of awesome header-only C++ libraries.
+* [awesome-cpp](https://github.com/fffaraz/awesome-cpp) -- A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things.
+
 ## Audio
 
 * [miniaudio](https://miniaud.io/) -- A single file audio playback and capture library.
