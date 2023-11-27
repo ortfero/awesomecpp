@@ -85,13 +85,6 @@ Awesome C++ Libraries
 * [cpp-sqlitelib](https://github.com/yhirose/cpp-sqlitelib) -- C++11 SQLite wrapper library.
 
 
-## Error Handling
-
-* [expected](https://github.com/TartanLlama/expected) -- C++11/14/17 std::expected with functional-style extensions.
-* [outcome](https://github.com/ned14/outcome) -- provides very lightweight outcome<T> and result<T> (non-Boost edition).
-* [leaf](https://github.com/boostorg/leaf) -- Lightweight Error Augmentation Framework.
-
-
 ## File Managment
 
 * [TinyDir](https://github.com/cxong/tinydir) -- lightweight, portable and easy to integrate C directory and file reader.
